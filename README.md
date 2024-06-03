@@ -1,6 +1,11 @@
 # µMod for TIDRADIO H3
+[![donate](https://img.shields.io/badge/Donate-CloudTips-blue)](https://pay.cloudtips.ru/p/fc5c5a15) [![readme ru](https://img.shields.io/badge/README%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-214a57)](/README_RU.md)
+
 This is a small *(or more like micro)* firmware modification for TIDRADIO H3.
 ![photo of the menu](images/menu.jpg)
+
+## Disclaimer
+Use at your own risk. *The author does not give any guarantees and is not responsible for damaged radios while using the modified firmware.*
 
 ## Features
 * Switch VHF/UHF filter boundary to 280 MHz *(instead of 300 MHz by default)*.

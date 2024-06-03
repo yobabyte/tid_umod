@@ -8,7 +8,7 @@ This is a small *(or more like micro)* firmware modification for TIDRADIO H3.
 * Light theme *(just a color inversion with some additions)*.
 
 ## Install
-Program the mod **.BIN** file using any IAP tool (e.g. [TD-H3_IAP](https://www.walkietalkiesoftware.com/portal/index/software_detail/id/69.html) from TID).
+Program the mod **.BIN** file from [releases](/releases/latest) using any IAP tool (e.g. [TD-H3_IAP](https://www.walkietalkiesoftware.com/portal/index/software_detail/id/69.html) from TID).
 
 ## Usage
 Press **PTT+FN** *(**FN** is the button that turns on the flashlight)* and turn on the radio.

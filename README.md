@@ -1,7 +1,8 @@
-# µMod for TIDRADIO H3
-[![donate](https://img.shields.io/badge/Donate-CloudTips-blue)](https://pay.cloudtips.ru/p/fc5c5a15) [![readme ru](https://img.shields.io/badge/README%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-214a57)](/README_RU.md)
+# uMod for TIDRADIO H3
+[![support me](https://img.shields.io/badge/Support%20me-CloudTips-blue)](https://pay.cloudtips.ru/p/fc5c5a15) [![readme ru](https://img.shields.io/badge/README%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-214a57)](/README_RU.md)
 
 uMod _(or Ultimate Mod)_ is a firmware modification for TIDRADIO H3.
+
 ![uMod R3](images/umod.jpg)
 
 Join the [Tidradio TD-H3 community on Telegram](https://t.me/TD_H3).

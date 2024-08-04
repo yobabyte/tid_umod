@@ -2,6 +2,7 @@
 [![donate](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B0-CloudTips-blue)](https://pay.cloudtips.ru/p/fc5c5a15) [![readme en](https://img.shields.io/badge/README%20in%20English-214a57)](/README.md)
 
 uMod _(или Ultimate Mod)_ это модификация оригинальной прошивки для TIDRADIO H3.
+
 ![uMod R3](images/umod.jpg)
 
 Присоединяйтесь к сообществу [Tidradio TD-H3 в Telegram](https://t.me/TD_H3).
